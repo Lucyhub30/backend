@@ -1,7 +1,7 @@
 
 const mongoose = require("mongoose");
 
-const uri = "mongodb+srv://lrosesmith23:Ziggyepq22@mystation.uoil79h.mongodb.net/weatherStationData?retryWrites=true&w=majority";
+const uri = "mongodb+srv://username:password@mystation.uoil79h.mongodb.net/weatherStationData?retryWrites=true&w=majority";
 const { Schema } = mongoose;
 
 
